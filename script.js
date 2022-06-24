@@ -16,6 +16,4 @@ do {
 
     }while(isNaN(numero1) || isNaN(operacion) || operacion >= 3)
 
-
-
 console.log(peso_final)
